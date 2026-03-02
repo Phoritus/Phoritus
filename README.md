@@ -2,8 +2,6 @@
 <h3 align="center">A Computer Science student at King Mongkut's University of Technology North Bangkok who's still learning about the fascinating world of AI 🤖</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoritus" alt="phoritus" /></a> </p>
-
 - 🔭 I’m currently working on [SE-Cybercieve-Project](https://github.com/Phoritus/SE-Cybercieve-Project)
 
 - 🌱 I’m currently learning **Deep Learning, Voice Recoginze**
@@ -13,8 +11,6 @@
 - 📫 How to reach me **phorituskongpila@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/phoritus" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="phoritus" /></a>
 <a href="https://www.leetcode.com/pheod" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="pheod" /></a>
 </p>
 
@@ -46,13 +42,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoritus&show_icons=true&locale=en&layout=compact&count_private=true&theme=default" alt="phoritus" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phoritus&show_icons=true&locale=en&count_private=true&theme=default" alt="phoritus" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=phoritus&theme=default" alt="phoritus" />
