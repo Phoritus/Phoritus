@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Voice Recoginze**
 
-- 💬 Ask me about **GenAI, System Desing, Deep Learning**
+- 💬 Ask me about **GenAI, System Design, Deep Learning**
 
 - 📫 How to reach me **phorituskongpila@gmail.com**
 
