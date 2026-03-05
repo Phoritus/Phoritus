@@ -11,7 +11,7 @@
 - 📫 How to reach me **phorituskongpila@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="[https://www.leetcode.com/pheod](https://leetcode.com/u/Phoritus/)" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="pheod" /></a>
+<a href="https://leetcode.com/u/Phoritus" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="pheod" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
