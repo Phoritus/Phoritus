@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://leetcode.com/u/Phoritus" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="pheod" /></a>
+<a href="https://www.instagram.com/phuri_thad" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,4 +47,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=phoritus&theme=highcontrast" alt="phoritus" />
 </p>
-
