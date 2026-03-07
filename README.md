@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [SE-Cybercieve-Project](https://github.com/Phoritus/SE-Cybercieve-Project)
 
-- 🌱 I’m currently learning **Deep Learning, Voice Recoginze**
+- 🌱 I’m currently learning **Voice Detection, Fine tuning Model**
 
 - 💬 Ask me about **GenAI, System Design, Deep Learning**
 
