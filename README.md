@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [CX-trainge-AIagent](https://github.com/Phoritus/CX-trainge-AIagent)
   
-- 🌱 I’m currently learning **Voice Detection, Fine tuning Model**
+- 🌱 I’m currently learning **Fine tunning LLM model, LLM pipelines**
 
-- 💬 Ask me about **GenAI, System Design, Deep Learning**
+- 💬 Ask me about **GenAI, Desing Pattern, Deep Learning**
 
 - 📫 How to reach me **phorituskongpila@gmail.com**
 
