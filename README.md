@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student at King Mongkut's University of Technology North Bangkok who's still learning about the fascinating world of AI 🤖</h3>
 
 
-- 🔭 I’m currently working on [SE-Cybercieve-Project]([https://github.com/Phoritus/SE-Cybercieve-Project](https://github.com/Phoritus/CX-trainge-AIagent))
+- 🔭 I’m currently working on [CX-trainge-AIagent]([(https://github.com/Phoritus/CX-trainge-AIagent)]])
 
 - 🌱 I’m currently learning **Voice Detection, Fine tuning Model**
 
